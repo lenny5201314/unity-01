@@ -9,6 +9,10 @@ public class loacl : MonoBehaviour {
 		print ("Hello world!");
 		print ("Mother Fucker!");
 		print (" ZZZZZ ");
+		print (" ZZZZZ ");
+		print (" ZZZZZ ");
+		print (" ZZZZZ ");
+		print (" ZZZZZ ");
 	}
 	
 	// Update is called once per frame
