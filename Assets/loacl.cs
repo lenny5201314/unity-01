@@ -22,6 +22,7 @@ public class loacl : MonoBehaviour {
 >>>>>>> unity-01/yyy
 =======
 		print("22540");
+<<<<<<< HEAD
 >>>>>>> unity-01/Bitch
 =======
 		print (" ZZZZZ ");
@@ -32,6 +33,9 @@ public class loacl : MonoBehaviour {
 =======
 		print (" I DON'T GET IT .");
 >>>>>>> unity-01/COUNTING_HA
+=======
+		print ("Do you know da wae?");
+>>>>>>> unity-01/Bitch
 	}
 	
 	// Update is called once per frame
