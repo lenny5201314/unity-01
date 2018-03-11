@@ -8,6 +8,7 @@ public class loacl : MonoBehaviour {
 	void Start () {
 		print ("Hello world!");
 		print ("Mother Fucker!");
+		print("22540");
 	}
 	
 	// Update is called once per frame
