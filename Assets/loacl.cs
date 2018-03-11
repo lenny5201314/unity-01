@@ -14,6 +14,7 @@ public class loacl : MonoBehaviour {
 <<<<<<< HEAD
 =======
 		print ("NVM I GIVE UP .");
+<<<<<<< HEAD
 >>>>>>> unity-01/COUNTING_HA
 =======
 		print (" ZZZZZ ");
@@ -28,6 +29,9 @@ public class loacl : MonoBehaviour {
 		print (" ZZZZZ ");
 		print (" ZZZZZ ");
 >>>>>>> unity-01/yyy
+=======
+		print (" I DON'T GET IT .");
+>>>>>>> unity-01/COUNTING_HA
 	}
 	
 	// Update is called once per frame
