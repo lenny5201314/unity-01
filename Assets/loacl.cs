@@ -10,9 +10,13 @@ public class loacl : MonoBehaviour {
 <<<<<<< HEAD
 		print ("654");
 		print ("Mother Fucker!");
+<<<<<<< HEAD
 =======
 		print ("NVM I GIVE UP .");
 >>>>>>> unity-01/COUNTING_HA
+=======
+		print (" ZZZZZ ");
+>>>>>>> unity-01/yyy
 	}
 	
 	// Update is called once per frame
