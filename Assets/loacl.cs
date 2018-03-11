@@ -17,10 +17,17 @@ public class loacl : MonoBehaviour {
 >>>>>>> unity-01/COUNTING_HA
 =======
 		print (" ZZZZZ ");
+<<<<<<< HEAD
 >>>>>>> unity-01/yyy
 =======
 		print("22540");
 >>>>>>> unity-01/Bitch
+=======
+		print (" ZZZZZ ");
+		print (" ZZZZZ ");
+		print (" ZZZZZ ");
+		print (" ZZZZZ ");
+>>>>>>> unity-01/yyy
 	}
 	
 	// Update is called once per frame
