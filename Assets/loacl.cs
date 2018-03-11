@@ -7,11 +7,8 @@ public class loacl : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		print ("Hello world!");
-<<<<<<< HEAD
 		print ("654");
-=======
 		print ("Mother Fucker!");
->>>>>>> unity-01/Bitch
 	}
 	
 	// Update is called once per frame
